@@ -25,7 +25,7 @@ const Footer = () => {
             <div className="footer-content-center">
                 <h2>COMPANY</h2>
                 <ul>
-                   <li><a href="/home">Home</a></li>
+                   <li><a href="/">Home</a></li>
                   <li><a href="/#footer">About Us</a></li>
                   <li><a href="/cart">Delivery</a></li>
                  <li><a href="/#footer">Privacy Policy</a></li>
