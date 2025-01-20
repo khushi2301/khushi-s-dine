@@ -8,7 +8,7 @@ const Header = () => {
         <div className="header-contents">
             <h2>Order your favourite food here</h2>
             <p>Choose form a diverse menu featuring a delectable array of dishes crafted with the finest ingredinets and cutlinary expertise. Our mission is to satify your cravings and elevate your dining experience, one delicious meal at a time.</p>
-        <button onClick={() => window.location.href = '/explore-menu'}>
+        <button onClick={() => window.location.href = '/#explore-menu'}>
            View Menu
         </button>
 
